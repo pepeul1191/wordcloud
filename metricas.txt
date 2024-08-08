@@ -1,0 +1,87 @@
+Originalidad 
+Ética
+Calidad del servicio 
+Productividad
+Precisión 
+Errores
+Rendimiento
+Fluidez
+Estética
+Coherencia
+Calidad del servicio
+Originalidad
+Fluidez
+Coherencia
+Precisión
+Rendimiento
+Precisión
+Rendimiento
+Productividad
+Marco RRR
+Precisión
+Precisión
+Errores
+Eficiencia
+Evaluación de Likert
+Puntuación de Timeliness
+Evaluación de Necessity
+Precisión
+Utilidad
+Negative Log-Likelihood
+Puntuaciones de Etapas
+Umbral de Puntuación
+Número Máximo de Pasos
+Número Mínimo de Pasos
+AUC F1-Score
+Adopción
+Impacto 
+ROUGE
+Eficiencia
+Mantenimibilidad
+Complejidad Ciclomática
+FID
+PRDC
+BRISQUE
+Precisión
+Impacto
+Eficiencia
+Ajuste
+Errores
+Curva de aprendizaje Eficiencia
+Impacto
+BLEU
+ROUGE 
+Eficiencia
+Precisión
+Aprendizaje
+Controlabilidad 
+Eficiencia
+Seguridad
+Errores
+Precisión
+Precisión
+Eficiencia
+Halstead
+McCabe
+Eficiencia
+Precisión
+Optimización de Prompts
+Usabilidad
+Precisión
+Verificación
+Eficiencia 
+Precisión
+Impacto
+Eficiencia
+Precisión
+Reproducibilidad
+Entrenamiento
+Errores
+Precisión
+Eficiencia
+Precisión
+Eficiencia
+Precisión
+Eficiencia 
+Precisión
+Precisión
